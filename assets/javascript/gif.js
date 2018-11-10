@@ -1,4 +1,4 @@
-var characters = ["Albus Dumbledore ", "Argus Filch", "Filius Flitwick"];
+var characters = ["Sirius Black", "Albus Dumbledore ", "Vernon Dursley", "Cedric Diggory "];
 
 function renderButtons() {
     $(".buttonsView").empty();
