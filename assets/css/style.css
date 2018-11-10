@@ -53,3 +53,9 @@ body {
     float: left;
     margin: 10px;
 }
+
+#gifs p {
+    font-family: 'Black And White Picture', sans-serif;
+    letter-spacing: 1.5px;
+    color: #ffffff;
+}
