@@ -5,4 +5,4 @@
     * style.css
     * gif.js
     
-# This site made for searching character gif of Harry Potter story.
+## This site made for searching character gif of Harry Potter story, using a GIPHY API
