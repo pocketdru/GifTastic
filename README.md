@@ -10,3 +10,8 @@ GIPHY API is used in this project.
 
 ## How it works
 In the search field, user can enter a character name. Then button with the character name is appears. After click on the button, gifs with the specific character are appear.
+
+### Example 
+
+![example](assets/images/gif.gif)
+
