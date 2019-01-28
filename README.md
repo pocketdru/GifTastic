@@ -15,3 +15,6 @@ In the search field, user can enter a character name. Then button with the chara
 
 ![example](assets/images/gif.gif)
 
+### How to run
+Go to the root folder and run index.html file.
+
