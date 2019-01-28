@@ -1,5 +1,6 @@
 # GifTastic
-GIPHY API is used in this project. 
+
+This project is intended to search for specific gifs.
 
 1. ## File list
     * index.html
